@@ -1,0 +1,1 @@
+components.forms.button<?php /**PATH /Users/jacques/Herd/TogoTalent/storage/framework/views/920c426976ba820b531a89bb6d5f5974.blade.php ENDPATH**/ ?>
