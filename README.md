@@ -1,1 +1,1 @@
-job posting platform specifically designed for Togo, inspired by platforms like Glassdoor, LinkedIn, and Indeed. The website allows companies to post job openings, and users can browse and apply for these positions. The platform is built using Laravel
+A job posting platform specifically designed for Togo, inspired by platforms like Glassdoor, LinkedIn, and Indeed. The website allows companies to post job openings, and users can browse and apply for these positions. The platform is built using Laravel
